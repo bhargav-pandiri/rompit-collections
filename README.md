@@ -1,2 +1,2 @@
 # rompit-collections
-Colletion of projets 
+Colletion of projetcs
